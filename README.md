@@ -9,6 +9,6 @@ Electriangle on YouTube:
 How to retreive and upload source code to Arduino:  
 Step 1) Download zip folder of code.  
 Step 2) Extract folder to desired file location.  
-Step 3) All the .ino files must both be within a folder together named CeilingLEDs_Main. Rename folder to match.  
+Step 3) All the .ino files must all be within a folder together named CeilingLEDs_Main. Rename folder to match.  
 Step 4) Open CeilingLEDs_Main.ino and adjust variables as required.  
 Step 5) Upload code to Arduino.  
